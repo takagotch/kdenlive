@@ -1,4 +1,4 @@
-### kdenlive
+### Kdenlive
 ---
 https://kdenlive.org/en/
 
